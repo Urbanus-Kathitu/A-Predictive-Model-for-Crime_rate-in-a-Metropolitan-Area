@@ -5,8 +5,13 @@ Assume the data has already undergone EDA and the dataset is balanced.
 A few of the requirements I will need to perform are :
 
 a) Loading the necessary libraries
+
 b) Loading the Data
+
 c) Performing Freature Selection
+
 d) Splitting the data
+
 e) Creating the Model
+
 f) Visualising A Decision Tree
